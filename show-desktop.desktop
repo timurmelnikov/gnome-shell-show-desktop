@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Show Desktop
+Icon=desktop
+Exec=/opt/gnome-shell-show-desktop/toggle.sh
+Name[ru_UA]=Показать Рабочий стол
